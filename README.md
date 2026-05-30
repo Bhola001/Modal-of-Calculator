@@ -56,7 +56,7 @@ calculator-app/
 
 🌐 Live Demo
 
-https://Bhola001.github.io/Modal-of-Calculator/new/
+https://Bhola001.github.io/Modal-of-Calculator/
 
 ## Learning Outcomes
 
